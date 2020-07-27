@@ -1,0 +1,7 @@
+.container.text-center.border.rounded-0.border-primary.shadow {
+  display: table;
+  max-width: 900px;
+  width: 90%;
+  margin: 0 auto;
+}
+
